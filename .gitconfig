@@ -1,0 +1,40 @@
+[user]
+    name = 44smkn
+    # email is set in ~/.gitconfig_local
+[include]
+    path = ~/.gitconfig_local
+[core]
+    editor = vim
+    excludesfile = ~/.gitignore_global
+    pager = delta
+[init]
+    defaultBranch = main
+[push]
+    default = current
+[alias]
+    a = add
+    aa = add --all
+    b = branch
+    ci = commit -v
+    co = checkout
+    d = diff
+    ds = diff --staged
+    p = push
+    pf = push --force-with-lease
+    st = status
+[fetch]
+    prune = true
+[rebase]
+    autosquash = true
+
+# I congigure delta the below section
+# https://github.com/dandavison/delta/blob/master/README.md
+
+[interactive]
+    diffFilter = delta --color-only
+[delta]
+    navigate = true
+[merge]
+    conflictstyle = diff3
+[diff]
+    colorMoved = default

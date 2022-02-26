@@ -1,0 +1,10 @@
+# General
+alias sed="gsed"
+
+# for creating pr-draft
+alias ghpc="gh pr create -d -a @me -F $HOME/.github/PULL_REQUEST_TEMPLATE.md -f"
+
+# for kubectl
+source <(kubectl completion zsh)
+alias k=kubectl
+complete -F __start_kubectl k
