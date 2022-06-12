@@ -1,4 +1,5 @@
-#!/bin/bash -ex
+#!/usr/bin/env zsh
+set -ex
 
 readonly SYMLINKS_FILES=(
     .zshrc
