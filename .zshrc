@@ -1,3 +1,4 @@
+export DOTFILES=$HOME/dotfiles
 source $DOTFILES/.zshrc.theme
 source $DOTFILES/.zshrc.alias
 
