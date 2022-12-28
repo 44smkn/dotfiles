@@ -16,11 +16,13 @@
     aa = add --all
     b = branch
     ci = commit -v
-    co = checkout
+    sw = switch
+    swc = switch -c
     d = diff
     ds = diff --staged
     p = push
     pf = push --force-with-lease
+    rst = restore
     st = status
 [fetch]
     prune = true
