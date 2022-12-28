@@ -10,3 +10,5 @@ source $DOTFILES/.zshrc.alias
 if [ -f '/Users/kenji.shimizu/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/kenji.shimizu/google-cloud-sdk/path.zsh.inc'; fi
 # The next line enables shell command completion for gcloud.
 if [ -f '/Users/kenji.shimizu/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/kenji.shimizu/google-cloud-sdk/completion.zsh.inc'; fi
+
+eval "$(rbenv init - zsh)"
