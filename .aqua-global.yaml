@@ -22,7 +22,7 @@ packages:
 
 # git
 - name: cli/cli@v2.12.1
-- name: dandavison/delta@0.12.0
+- name: dandavison/delta@0.16.5
 
 # terraform
 - name: hashicorp/terraform@v1.1.6
