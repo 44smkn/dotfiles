@@ -32,7 +32,7 @@ packages:
 - name: peco/peco@v0.5.10
 - name: stedolan/jq@jq-1.6
 - name: mikefarah/yq@v4.20.2
-- name: direnv/direnv@v2.30.3
+- name: direnv/direnv@v2.32.3
 
 # opa
 - name: open-policy-agent/conftest@v0.30.0
