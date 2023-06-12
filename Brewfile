@@ -3,18 +3,13 @@ tap "heroku/brew"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
-brew "cdktf", link: false
-brew "colordiff"
 brew "faac", link: false
 brew "faad2", link: false
-brew "fluent-bit"
 brew "git"
 brew "gnu-sed"
 brew "go"
 brew "libtool"
-brew "lua"
 brew "n"
-brew "peco"
 brew "tmux"
 brew "tree"
 brew "wget"
