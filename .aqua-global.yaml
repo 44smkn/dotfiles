@@ -35,5 +35,5 @@ packages:
 - name: direnv/direnv@v2.32.3
 
 # opa
-- name: open-policy-agent/conftest@v0.30.0
+- name: open-policy-agent/conftest@v0.43.1
 - name: open-policy-agent/opa@v0.53.1
