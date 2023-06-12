@@ -37,6 +37,3 @@ packages:
 # opa
 - name: open-policy-agent/conftest@v0.30.0
 - name: open-policy-agent/opa@v0.37.2
-
-# public cloud
-- name: aws/amazon-ec2-instance-selector@v2.0.3
