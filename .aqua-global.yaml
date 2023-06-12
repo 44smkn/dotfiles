@@ -13,7 +13,7 @@ packages:
 - name: kubernetes/kubectl@v1.24.1
 - name: kubernetes-sigs/kind@v0.11.1
 - name: kubernetes-sigs/kustomize@kustomize/v4.5.2
-- name: helm/helm@v3.8.0
+- name: helm/helm@v3.12.0
 - name: roboll/helmfile@v0.143.0
 - name: argoproj/argo-rollouts@v1.1.1
 - name: int128/ktunnels@v0.4.0
