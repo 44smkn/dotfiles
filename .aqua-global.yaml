@@ -16,7 +16,7 @@ packages:
 - name: helm/helm@v3.8.0
 - name: roboll/helmfile@v0.143.0
 - name: argoproj/argo-rollouts@v1.1.1
-- name: int128/kubectl-external-forward@v0.5.1
+- name: int128/ktunnels@v0.4.0
 - name: vmware-tanzu/velero@v1.8.0
 - name: stern/stern@v1.21.0
 
