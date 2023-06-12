@@ -31,7 +31,7 @@ packages:
 # terminal
 - name: peco/peco@v0.5.10
 - name: stedolan/jq@jq-1.6
-- name: mikefarah/yq@v4.20.2
+- name: mikefarah/yq@v4.34.1
 - name: direnv/direnv@v2.32.3
 
 # opa
