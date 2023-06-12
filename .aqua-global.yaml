@@ -14,7 +14,7 @@ packages:
 - name: kubernetes-sigs/kind@v0.19.0
 - name: kubernetes-sigs/kustomize@kustomize/v4.5.2
 - name: helm/helm@v3.12.0
-- name: roboll/helmfile@v0.143.0
+- name: roboll/helmfile@v0.144.0
 - name: argoproj/argo-rollouts@v1.1.1
 - name: int128/ktunnels@v0.4.0
 - name: vmware-tanzu/velero@v1.8.0
