@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "config:base",
+    "github>aquaproj/aqua-renovate-config#1.6.0",
+    "github>suzuki-shunsuke/renovate-config:tflint#0.1.2",
+  ],
+
+  "automerge": true,
+
+  // Increase prHourlyLimit to process many updates.
+  // This configuration overwrites the configuration of "config:base".
+  // https://docs.renovatebot.com/presets-config/#configbase
+  // Please adjust the value properly.
+  "prHourlyLimit": 0,
+  "rebaseWhen": "never",
+  "prConcurrentLimit": 10,
+  // branchConcurrentLimit (default) inherits value from prConcurrentLimit.
+}
