@@ -17,7 +17,7 @@ packages:
 - name: roboll/helmfile@v0.144.0
 - name: argoproj/argo-rollouts@v1.5.1
 - name: int128/ktunnels@v0.4.0
-- name: vmware-tanzu/velero@v1.8.0
+- name: vmware-tanzu/velero@v1.11.0
 - name: stern/stern@v1.25.0
 
 # git
