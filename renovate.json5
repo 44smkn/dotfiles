@@ -2,7 +2,6 @@
   "extends": [
     "config:base",
     "github>aquaproj/aqua-renovate-config#1.6.0",
-    "github>suzuki-shunsuke/renovate-config:tflint#0.1.2",
   ],
 
   "automerge": true,
