@@ -3,6 +3,7 @@ tap "heroku/brew"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
+brew "awscli"
 brew "faac", link: false
 brew "faad2", link: false
 brew "git"
