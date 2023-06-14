@@ -18,7 +18,7 @@
     ci = commit -v
     sw = switch
     swc = switch -c
-    spc = sparse-checkout　
+    spc = sparse-checkout　set
     d = diff
     ds = diff --staged
     p = push
