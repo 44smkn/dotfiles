@@ -37,5 +37,5 @@ packages:
 - name: stedolan/jq@jq-1.6
 
 # opa
-- name: open-policy-agent/conftest@v0.43.1
+- name: open-policy-agent/conftest@v0.44.1
 - name: open-policy-agent/opa@v0.53.1
